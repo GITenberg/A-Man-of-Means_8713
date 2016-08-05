@@ -1,0 +1,32 @@
+_repo: A-Man-of-Means_8713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- GITenberg
+tableOfContents: The episode of the landlady's daughter -- The episode of the financial
+  Napoleon -- The episode of the theatrical venture -- The episode of the live weekly
+  -- The diverting episode of the exiled monarch -- The episode of the hired past.
+title: A Man of Means
+url: http://www.gutenberg.org/ebooks/8713
